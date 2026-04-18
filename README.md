@@ -1,8 +1,17 @@
 # Hi, I'm Michelle Shumilov 👋
 ### 🎓 B.Sc. Computer Science Student @ Ruppin Academic Center 
-**GPA: 94 (Excellence Scholarship) | Specialized in Data Science & AI**
+**GPA: 88 (Year 1: 94 | Excellence Scholarship) | IMPACT! Scholar (FIDF) | Engineering Faculty Coordinator**
 
-I am a results-driven Computer Science student and a former IDF Technical Leader. My expertise lies in bridging the gap between rigorous statistical research and scalable software engineering. Currently focusing on predictive modeling and high-performance data pipelines.
+I am a results-driven Computer Science student and a former IDF Technical Leader, specializing in the intersection of data science, analytical modeling, and scalable software engineering. My journey is defined by a commitment to academic excellence, leadership in student representation, and resilience in high-pressure environments.
+
+---
+
+### 🎖️ Leadership & Resilience
+* **Combat Reserve Service:** Proudly serving as a combat reservist in the IDF. Despite intensive operational demands during the war, I maintained a full academic load and completed all degree requirements on schedule without extensions.
+* **Academic Excellence:** Recipient of the **Excellence Scholarship** (Year 1 GPA: 94).
+* **Engineering Faculty Coordinator:** Leading student initiatives at the Ruppin Students Union, managing faculty-student relations and strategic academic representation.
+* **IMPACT! Scholarship Recipient (FIDF):** Honored to be part of the **"Made in IMPACT!"** program, recognizing combat service and community leadership.
+* **Former IDF Technical Leader:** Experienced in managing cross-functional teams and mission-critical technological infrastructures.
 
 ---
 
@@ -16,21 +25,20 @@ I am a results-driven Computer Science student and a former IDF Technical Leader
 
 #### [🌍 Environmental Ozone Forecasting](https://github.com/michelleshumilov1998-ai/Ozone-Air-Quality-Analysis)
 *Research collaboration with the Sharon-Carmel Municipal Environmental Association.*
-- **Impact:** Quantified a **12.6% rise** in coastal $O_3$ concentrations using non-linear modeling.
-- **Tech:** Advanced KNN Imputation, XGBoost, and Mann-Whitney U statistical auditing.
-- **Result:** Reduced prediction uncertainty by **19%** compared to baseline variance.
+- Quantified a **12.6% rise** in coastal $O_3$ concentrations linked to offshore operational status.
+- Applied advanced KNN Imputation and XGBoost modeling to reduce prediction uncertainty by **19%**.
 
 #### [💳 iPlan Payment & Risk Engine](https://github.com/michelleshumilov1998-ai/iplan-payment-system)
-*Full-stack payment system with integrated analytical risk scoring.*
-- **Innovation:** Developed a custom risk engine using feature engineering to score transactions.
-- **Math:** Implemented a non-linear scoring logic: $RiskScore = \alpha \cdot \hat{A} + \beta \cdot \hat{D}$.
-- **Tech:** TypeScript, React, Node.js.
+*Full-stack payment system with a custom-engineered risk scoring module.*
+- Developed a non-linear analytical engine to score transaction risks using feature engineering.
+- Logic: $RiskScore = \alpha \cdot \hat{A} + \beta \cdot \hat{D}$.
 
 ---
 
-### 💼 Professional Experience & Leadership
-* **Python Instructor:** Designing curriculum and teaching advanced algorithms/OOP.
-* **Technical Leader (IDF):** Led cross-functional teams in high-pressure environments, managing complex mission-critical systems.
+### 🎯 What I'm Up To Now
+* **Current Focus:** Deepening expertise in **Deep Learning (PyTorch)** and exploring **LLM integration** for specialized analytical datasets.
+* **Looking For:** **Data Science / ML Internships or Junior positions** where I can apply my analytical rigor and leadership experience to solve real-world problems.
+* **X-Factor:** A rare blend of high-level analytical skills, military-grade resilience, and proven student leadership.
 
 ---
 
@@ -42,7 +50,10 @@ I am a results-driven Computer Science student and a former IDF Technical Leader
 
 ---
 
-### 📫 Get In Touch
+### 📫 Let's Connect
 - **LinkedIn:** [/in/michelle-shumilov](https://linkedin.com/in/michelle-shumilov)
 - **Email:** michelle.shumilov1998@gmail.com
 - **Location:** Israel 🇮🇱
+
+---
+<p align="center"><b>Made in IMPACT! 🎓</b></p>
