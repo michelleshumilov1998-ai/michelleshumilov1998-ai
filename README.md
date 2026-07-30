@@ -42,14 +42,6 @@ I am a results-driven Computer Science student and a former IDF Technical Leader
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelleshumilov1998-ai&show_icons=true&theme=tokyonight" height="150" alt="Michelle's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelleshumilov1998-ai&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - **LinkedIn:** [/in/michelle-shumilov](https://linkedin.com/in/michelle-shumilov)
 - **Email:** michelle.shumilov1998@gmail.com
